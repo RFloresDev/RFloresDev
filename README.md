@@ -13,4 +13,4 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.<br>
 
-(/workspaces/RFloresDev/banner.gif)
+![footer banner](banner.gif)
