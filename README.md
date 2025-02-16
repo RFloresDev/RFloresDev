@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <h2 align="center"><img src="./assets/line.gif"></h2>
-<p align="center"><img src="./assets/hand.gif" width="35"> &nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Richard+Flores" alt="Typing SVG" /></a></p>
+<p align="center"><img src="./assets/hand.webp" width="35"> &nbsp;<img src="./assets/hi.svg" alt="Typing SVG" /></a></p>
 
 ## 👨🏻‍💻 &nbsp; About me
 
