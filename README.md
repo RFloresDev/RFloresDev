@@ -1,10 +1,10 @@
 <!--horizontal divider(gradiant)-->
 <h2 align="center"><img src="./assets/line.gif"></h2>
-<p align="center"><img src="./assets/Right_Side.gif" width="35"> &nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Richard+Flores" alt="Typing SVG" /></a></p>
+<p align="center"><img src="./assets/hand.gif" width="35"> &nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Richard+Flores" alt="Typing SVG" /></a></p>
 
 ## 👨🏻‍💻 &nbsp; About me
 
-<picture> <img align="right" src="https://github.com/rfloresdev/rfloresdev/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="./assets/Right_Side.gif" width = 250px></picture>
 
 <br>🌱 I’m currently exploring Full Stack Development, focusing on the MERN stack and WordPress custom solutions.<br>
 👨‍💻 I love creating scalable and efficient web applications.<br>
