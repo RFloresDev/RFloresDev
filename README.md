@@ -42,7 +42,7 @@
 </table>
 
 
-## <picture> <img src = "https://github.com/rfloresdev/rfloresdev/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## 📈 Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -70,7 +70,7 @@
 
 ----
 	
-[![rfloresdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rfloresdev&theme=github	)](https://github.com/rfloresdev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rfloresdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 </details>
@@ -81,7 +81,6 @@
 	
 <p align="center"> <a href="https://github.com/rfloresdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfloresdev&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="rfloresdev" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
 
