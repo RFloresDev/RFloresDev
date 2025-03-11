@@ -48,7 +48,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rfloresdev&theme=tokyonight_duo" alt="rfloresdev" /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rfloresdev&theme=algolia" alt="GitHub Streak" /></a></p>
 
 </details>
   
