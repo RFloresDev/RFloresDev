@@ -47,9 +47,9 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-mu.vercel.app?user=rfloresdev&theme=tokyonight)](https://git.io/streak-stats)
-
+</p>
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
