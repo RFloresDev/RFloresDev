@@ -48,7 +48,7 @@
 
 ----	
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-mu.vercel.app?user=rfloresdev&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-mu.vercel.app?user=rfloresdev&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 </details>
   
