@@ -48,7 +48,7 @@
 
 ----	
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rfloresdev&theme=algolia" alt="GitHub Streak" /></a></p>
+[![GitHub Streak](https://github-readme-streak-mu.vercel.app?user=rfloresdev&theme=tokyonight)](https://git.io/streak-stats)
 
 </details>
   
