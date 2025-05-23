@@ -48,7 +48,7 @@
 
 ----	
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-mu.vercel.app?user=rfloresdev&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-rbij1iv1c-richard-flores-projects.vercel.app?user=rfloresdev&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 </details>
   
